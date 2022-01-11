@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Desktop/Java Projects" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
